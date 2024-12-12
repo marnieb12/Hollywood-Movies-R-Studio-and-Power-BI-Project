@@ -82,9 +82,9 @@ Here’s where the magic happened! Using Power BI, I transformed numbers into go
 
 Looking back on this project, I’ve realized how much I’ve grown as a budding data analyst.
 
--**Biggest Challenge:** Learning to clean messy data was both frustrating and rewarding—it taught me patience and attention to detail.
--**Biggest Win:** Seeing my Power BI dashboard come to life was a "wow" moment. It made all the effort worthwhile. 🎉
--**What’s Next?** I want to dive deeper into machine learning and predictive analysis to uncover even cooler insights. 🤖
+- **Biggest Challenge:** Learning to clean messy data was both frustrating and rewarding—it taught me patience and attention to detail.
+- **Biggest Win:** Seeing my Power BI dashboard come to life was a "wow" moment. It made all the effort worthwhile. 🎉
+- **What’s Next?** I want to dive deeper into machine learning and predictive analysis to uncover even cooler insights. 🤖
 
 This journey has been a mix of trial, error, and lots of fun, and I can’t wait to see where it leads next! 🚀
 
