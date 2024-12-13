@@ -27,7 +27,7 @@ I kicked things off with **R Studio**:
 ### Step 2: Data Cleaning
 Nobody likes messy data! 🧹
 - I checked for nulls, missing rows, and inconsistencies.
-- Streamlined it into a neat, analyzable format.
+- Streamlined it into a neat, analysable format.
 
 ### Step 3: Visualisation with Power BI
 Time to get colorful and creative! 🎨
@@ -80,7 +80,7 @@ Here’s where the magic happened! Using Power BI, I transformed numbers into go
 ---
 ## Reflection 🌟
 
-Looking back on this project, I’ve realized how much I’ve grown as a budding data analyst.
+Looking back on this project, I’ve realised how much I’ve grown as a budding data analyst.
 
 - **Biggest Challenge:** Learning to clean messy data was both frustrating and rewarding—it taught me patience and attention to detail.
 - **Biggest Win:** Seeing my Power BI dashboard come to life was a "wow" moment. It made all the effort worthwhile. 🎉
